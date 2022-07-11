@@ -8,6 +8,7 @@ I'm 20 years old and my pronouns are *she/her*.
     - I have a little bit of Angular experience
   - PHP
   - Java
+    - A little bit of Android experience
   - Python
 - I know how to:
   - Build CI/CD pipelines
