@@ -10,6 +10,7 @@ I'm 20 years old and my pronouns are *she/her*.
   - Java
     - A little bit of Android experience
   - Python
+    - A little bit of tkinter and Tesseract experience
 - I know how to:
   - Build CI/CD pipelines
     - This includes knowing how to use docker, docker:dind and docker-compose
