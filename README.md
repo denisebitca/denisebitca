@@ -4,7 +4,7 @@ My name is Denise, I'm from around Paris, France.
 I'm in my early 20s and my pronouns are *she/her*.
 
 - I can program with (in order of proficiency):
-  - Typescript
+  - Typescript / Javascript
     - I have a little bit of Angular experience
     - Express and Fastify experience
   - PHP
