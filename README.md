@@ -9,7 +9,8 @@ I'm in my early 20s and my pronouns are *she/her*.
     - Express and Fastify experience
   - PHP
       - This includes **object-oriented code**.
-      - I don't have much experience in PHP frameworks but I can learn!  
+      - I don't have much experience in PHP frameworks but I can learn! 
+      - I do have *a little bit of experience* with Symfony projects (and specifically security-checking)
   - Python
     - A little bit of tkinter and Tesseract experience
     - A little bit of experience with OpenAI's Whisper [(check out my blog post!)](https://blog.3644859.xyz/posts/lcv_subtitles_en).
