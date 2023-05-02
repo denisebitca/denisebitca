@@ -17,6 +17,9 @@ I'm in my early 20s and my pronouns are *she/her*.
     - A little bit of Android experience
   - C++
 - I know how to:
+  - Write code in PHP and use either MariaDB/MySQL with PDO or Oracle SQL via OCI
+    - This includes **object-oriented code**.
+    - I don't have much experience in PHP frameworks but I can learn!  
   - Build CI/CD pipelines
     - This includes knowing how to use docker, docker:dind and docker-compose
     - Production experience with GitLab CI
